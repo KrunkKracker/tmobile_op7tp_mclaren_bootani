@@ -1,6 +1,6 @@
-id=mclaren_boot_ani
-name=McLaren boot animation for T-Mobile OnePlus 7t Pro McLaren edition
+id=tmobile_mclaren_boot_ani
+name=McLaren boot animation for T-Mobile OnePlus 7t Pro McLaren
 version=v1
 versionCode=1
 author=krunk_kracker @ xda-developers
-description= Easily change the horrible pink T-Mobile animation to the official OnePlus McLaren boot animation
+description= Systemlessly change the horrible pink T-Mobile boot animation to the official OnePlus McLaren boot animation
